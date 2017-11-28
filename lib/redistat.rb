@@ -35,7 +35,6 @@ require 'redistat/summary'
 require 'redistat/version'
 
 require 'redistat/core_ext'
-require 'redistat/redis'
 
 
 module Redistat
